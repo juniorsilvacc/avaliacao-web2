@@ -24,7 +24,7 @@ localhost:8080/conta/pagar/1
 - DELETE:
 localhost:8080/conta/cancelar/1
 
-- GET LIST ID:
+- GET ID:
 localhost:8080/conta/1
 
 - GET STATUS:
